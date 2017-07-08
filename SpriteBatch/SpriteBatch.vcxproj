@@ -135,7 +135,7 @@
     <ClCompile Include="SpriteBatch.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="SFML\Colors.hpp" />
+    <ClInclude Include="Colors.hpp" />
     <ClInclude Include="SpriteBatch.hpp" />
   </ItemGroup>
   <ItemGroup>

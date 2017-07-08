@@ -11,7 +11,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SpriteBatch.hpp" />
-    <ClInclude Include="SFML\Colors.hpp" />
+    <ClInclude Include="Colors.hpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="Content\grass.png">
